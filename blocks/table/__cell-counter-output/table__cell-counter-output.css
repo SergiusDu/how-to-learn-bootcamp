@@ -1,0 +1,4 @@
+.table__cell-counter-output::before{
+  counter-increment: cell-counter;
+  content: counter(cell-counter);
+}
