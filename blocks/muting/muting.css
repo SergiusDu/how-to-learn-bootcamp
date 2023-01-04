@@ -1,0 +1,13 @@
+.muting:hover {
+  animation: link_opacity .1s linear forwards;
+}
+
+@keyframes link_opacity {
+  from{
+    opacity: 1;
+  }
+  to {
+    opacity: 0.6;
+  }
+
+}

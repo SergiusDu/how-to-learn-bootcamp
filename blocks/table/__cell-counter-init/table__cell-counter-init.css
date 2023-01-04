@@ -1,0 +1,3 @@
+.table__cell-counter-init{
+  counter-reset: cell-counter;
+}

@@ -1,0 +1,13 @@
+.two-columns__brief {
+  margin: 0;
+  flex-basis: 175px;
+  flex-shrink: 0;
+
+  font-family: 'Inter', 'Arial', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 120%;
+
+  color: #2F80ED;
+}

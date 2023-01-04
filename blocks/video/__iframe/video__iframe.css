@@ -1,0 +1,5 @@
+.video__iframe {
+  width: 515px; /* Standard video width from brief */
+  height: 316px; /* Standard video height from brief */
+  border: 0;
+}
