@@ -1,13 +1,10 @@
 .khan__buy-link {
   margin: 0;
-  padding: 0 0 0 48px;
-  font-family: 'Inter', 'Arial', sans-serif;
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;
   line-height: 42px;
   text-decoration: none;
-
-
-  color: #2F80ED;
+  color: #2f80ed;
 }

@@ -1,0 +1,4 @@
+.counter__output::before {
+  counter-increment: counter;
+  content: counter(counter);
+}

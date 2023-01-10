@@ -1,10 +1,8 @@
 .footer__column-heading {
   margin: inherit;
-  font-family: 'Inter', 'Arial', sans-serif;
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
   line-height: 30px;
-  padding: 0 0 20px;
-  /* identical to box height, or 167% */
 }

@@ -2,16 +2,11 @@
   width: 60%;
   margin: 0;
   padding: 0 0 20px;
-  /*align-self: center;*/
-
-
-  font-family: 'Inter', 'Arial', sans-serif;
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 60px;
   line-height: 115%;
-  /* identical to box height, or 69px */
-
   text-align: center;
   z-index: 100;
 }
