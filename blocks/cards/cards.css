@@ -3,9 +3,7 @@
   padding: 0;
   width: 920px;
   display: flex;
-  flex-direction: row;
-  flex-wrap: wrap;
   flex-shrink: 0;
   flex-grow: 0;
-  list-style: none;
+  flex-flow: row wrap;
 }

@@ -1,12 +1,14 @@
 .footer__column-links {
   display: flex;
   flex-direction: column;
-  padding: 0 0 16px;
-
-  font-family: 'Inter', 'Arial', sans-serif;
+  row-gap: 20px;
+  font-family: Inter, Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 18px;
-  /* identical to box height, or 112% */
+}
+
+.footer__column-links:last-child {
+  padding: 0 0 16px;
 }

@@ -4,6 +4,9 @@
 /*Importing FONTS*/
 @import url(../fonts/fonts.css);
 
+/*Importing unordered list*/
+@import url(../blocks/list/list.css);
+
 /*Importing blocks:
 Importing page block*/
 @import url(../blocks/page/page.css);
@@ -37,7 +40,7 @@ Importing page block*/
 @import url(../blocks/two-columns/__brief/two-columns__brief.css);
 @import url(../blocks/two-columns/__main-text/two-columns__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
-@import url(../blocks/two-columns/__span/two-columns__span.css);
+@import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
 
 /*Importing techniques block, elements and modifiers*/
 @import url(../blocks/techniques/techniques.css);
@@ -58,8 +61,10 @@ Importing page block*/
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
-@import url(../blocks/table/__cell-counter-init/table__cell-counter-init.css);
-@import url(../blocks/table/__cell-counter-output/table__cell-counter-output.css);
+
+/*Importing counter*/
+@import url(../blocks/counter/counter.css);
+@import url(../blocks/counter/counter__output/counter__output.css);
 
 /*Importing kaufman block*/
 @import url(../blocks/kaufman/kaufman.css);
@@ -115,7 +120,4 @@ Importing page block*/
 /*Importing content*/
 @import url(../blocks/muting/muting.css);
 
-/*Importing unordered list*/
-@import url(../blocks/list/list.css);
-@import url(../blocks/list/__list-item/list__item.css);
-@import url(../blocks/list/__item_zero-padding-in-last-child/list__item_zero-padding-in-last-child.css);
+
