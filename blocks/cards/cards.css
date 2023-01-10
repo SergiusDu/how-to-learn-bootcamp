@@ -1,9 +1,11 @@
 .cards {
   margin: 0;
-  padding: 0;
+  padding: 60px 0 0;
   width: 920px;
   display: flex;
   flex-shrink: 0;
   flex-grow: 0;
   flex-flow: row wrap;
+  column-gap: 100px;
+  row-gap: 60px;
 }

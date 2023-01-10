@@ -1,6 +1,4 @@
 .footer__column_content_info {
+  row-gap: 20px;
   width: auto;
-  display: flex;
-  flex-direction: column;
-  align-self: flex-start;
 }

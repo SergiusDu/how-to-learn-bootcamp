@@ -5,9 +5,5 @@
   justify-content: flex-start;
   flex-basis: 240px;
   flex-shrink: 0;
-  padding: 60px 100px 0 0;
 }
 
-.cards__item:nth-of-type(3n) {
-  padding: 60px 0 0;
-}
