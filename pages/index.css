@@ -59,15 +59,11 @@ Importing page block*/
 
 /*Importing table block, elements and modifiers*/
 @import url(../blocks/table/table.css);
-@import url(../blocks/table/_theme_dark/table_theme_dark.css);
+@import url(../blocks/table/_theme/table_theme_dark.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
 @import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
-
-/*Importing counter*/
-@import url(../blocks/counter/counter.css);
-@import url(../blocks/counter/counter__output/counter__output.css);
 
 /*Importing kaufman block*/
 @import url(../blocks/kaufman/kaufman.css);
@@ -77,6 +73,7 @@ Importing page block*/
 @import url(../blocks/resources/resources.css);
 @import url(../blocks/resources/__logo-zone/resources__logo-zone.css);
 @import url(../blocks/resources/__logo/resources__logo.css);
+@import url(../blocks/resources/__link/resources__link.css);
 
 
 /*Importing FOOTER*/

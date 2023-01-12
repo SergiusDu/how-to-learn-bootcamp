@@ -1,13 +1,11 @@
-@keyframes link_opacity {
-  from {
-    opacity: 1;
-  }
-
-  to {
-    opacity: 0.6;
-  }
+.muting {
+  opacity: 1;
+  transition: opacity .2s ease-in-out, transform .2s ease-in-out;
+  /* I know the scale property isn't necessary, just want to added to my project*/
 }
 
 .muting:hover {
-  animation: link_opacity 0.1s linear forwards;
+  opacity: .6;
+  transform: scale(1.05);
 }
+
